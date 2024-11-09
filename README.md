@@ -4,8 +4,8 @@
 ## Screenshot
 
 
-![Screenshot_20241109-232508](https://github.com/user-attachments/assets/feeac826-fe63-429b-b1b2-94bc29059d4b)
-![Screenshot_20241109-232459](https://github.com/user-attachments/assets/55a96f14-2c9b-4feb-b60c-6f39a2aa3b5c)
+<img width="357" alt="Capture" src="https://github.com/user-attachments/assets/34c613f5-40a6-4b7b-9d1b-f0788687b021">
+
 
 
 
